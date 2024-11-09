@@ -1,4 +1,4 @@
-#Assigning the first word to word1 
+#Assigning the first word to word1  
 word1 = "coding"
 
 #Assigning the second word to word2
